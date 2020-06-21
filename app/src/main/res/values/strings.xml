@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">КСМЗ</string>
+    <string name="toast_message">Данные сохранены.</string>
+    <string name="toast_error_message">Такой пользователь уже существует.</string>
+    <string name="app_image">app image</string>
+    <string name="title">Комплексная система мониторинга здоровья.\nМ. Пермякова</string>
+    <string name="name_input">Введите имя</string>
+    <string name="patronymic_input">Введите отчество</string>
+    <string name="surname_input">Введите фамилию</string>
+    <string name="age_input">Введите возраст</string>
+    <string name="save">сохранить</string>
+    <string name="pressure">Показатели давления</string>
+    <string name="high_pressure_input">Введите верхнее давление</string>
+    <string name="low_pressure_input">Введите нижнее давление</string>
+    <string name="pulse_input">Введите пульс</string>
+    <string name="tachycardia_input">У Вас есть тахикардия? (да/нет)</string>
+    <string name="date_input">Введите дату, время (дд/мм/гггг мм:чч)</string>
+    <string name="paces_input">Введите количество шагов за день</string>
+    <string name="weight_input">Введите вес</string>
+    <string name="vital_statistic">Жизненные показатели</string>
+    <string name="nullpoint_exeption">Введите значение.</string>
+    <string name="empty_field">Заполните поле</string>
+    <string name="on_main">На главную</string>
+    <string name="time_format_error">Неверный формат времени.</string>
+    <string name="time_format">dd/mm/yyyy mm:hh</string>
+</resources>
